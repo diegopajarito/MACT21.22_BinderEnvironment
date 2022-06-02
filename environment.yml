@@ -3,6 +3,7 @@ channels:
   - default
 dependencies:
   - python=3.8
+  - pip=22.0.4
   - pip:
     - pydash
     - jupyter-dash
